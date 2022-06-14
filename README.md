@@ -1,2 +1,3 @@
 # Desafios de projeto Bootcamp DIO
-testando repositório
+
+Aqui vão ficar os desafios do bootcamp DIO
